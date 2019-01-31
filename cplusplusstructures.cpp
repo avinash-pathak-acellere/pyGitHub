@@ -1,4 +1,4 @@
-/* just a comment */
+/* just another comment */
 #include <iostream>
 using namespace std;
 
